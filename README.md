@@ -3,6 +3,9 @@
 Real World Vue.js
 https://www.vuemastery.com/courses-path/beginner
 
+![Alt text](https://github.com/KristjanTreimann/real-world-vue/blob/master/screen1.png)
+![Alt text](https://github.com/KristjanTreimann/real-world-vue/blob/master/screen2.png)
+
 Nice-to-have extensions:
 
 1)Vetur
